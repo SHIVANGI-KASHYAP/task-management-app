@@ -1,0 +1,23 @@
+.task-board {
+  display: flex;
+  gap: 20px;
+}
+
+.lane {
+  flex: 1;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.task-card {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.task-actions button {
+  margin-right: 5px;
+}
