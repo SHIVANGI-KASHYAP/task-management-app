@@ -1,0 +1,12 @@
+.task-form {
+  margin-bottom: 20px;
+}
+
+.task-form input,
+.task-form textarea,
+.task-form button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 90%;
+}
